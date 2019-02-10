@@ -1,6 +1,6 @@
-# @hamgom95/arrayset
+# @hamgom95/itertools
 
-Set-like Array.
+Javascript iterator helper functions.
 
 ## API Documentation
 
