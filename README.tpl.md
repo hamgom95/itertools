@@ -1,7 +1,7 @@
-# @hamgom95/itertools
+## @hamgom95/itertools
 
 Javascript iterator helper functions.
 
-## API Documentation
+### API Documentation
 
 {{>main}}
